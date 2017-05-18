@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flames</string>
+    <string name="Invalid">Invalid characters</string>
+    <string name="special"><![CDATA[You are Special <3]]></string>
+    <string name="valid">Enter Valid Names..</string>
+    <string name="empty">Can\'t be empty</string>
+    <string name="invalidcharacters">Invalid characters</string>
+    <string name="juliet_name">Juliet Name</string>
+    <string name="remoe_name">Remoe Name</string>
+</resources>
